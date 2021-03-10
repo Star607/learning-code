@@ -1,0 +1,2 @@
+nohup: ignoring input
+/new_disk_1/zty/miniconda3/envs/torch/bin/python: Error while finding module specification for 'torch_model.evaluate' (ModuleNotFoundError: No module named 'torch_model')

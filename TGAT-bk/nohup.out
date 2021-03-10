@@ -1,0 +1,1 @@
+INFO:root:Namespace(agg_method='attn', attn_mode='prod', bs=200, data='JODIE-reddit', drop_out=0.1, freeze=True, gpu=1, lr=0.0001, n_degree=20, n_epoch=50, n_head=2, n_layer=2, node_dim=128, prefix='', time='time', time_dim=128, uniform=False)
